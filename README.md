@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github.png" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Sanjana Ganathe</h1>
 
 <h3 align="center">
